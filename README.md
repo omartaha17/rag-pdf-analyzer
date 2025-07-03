@@ -19,7 +19,8 @@ A Streamlit app that lets you upload a PDF and ask questions about its content u
 
 
 ---
-Tech Stack
+## Tech Stack
+
 Python
 
 Streamlit
