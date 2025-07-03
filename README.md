@@ -19,6 +19,18 @@ A Streamlit app that lets you upload a PDF and ask questions about its content u
 
 
 ---
+Tech Stack
+Python
+
+Streamlit
+
+PyMuPDF (fitz)
+
+OpenAI API (Embeddings + Chat)
+
+NumPy
+
+FAISS (optional)
 
 ## 📦 Setup Instructions
 
