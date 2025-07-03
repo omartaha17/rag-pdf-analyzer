@@ -32,10 +32,42 @@ OpenAI API (Embeddings + Chat)
 NumPy
 
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo
 
 ```bash
 git clone https://github.com/TegeTiger/rag-pdf-analyzer
 cd rag-pdf-analyzer
+
+2. Create a virtual environment and activate it
+```bash
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Add your `.env` file
+```
+OPENAI_API_KEY=your_real_key
+```
+
+5. Run the app
+```bash
+streamlit run app.py
+```
+
+---
+
+## Author
+
+Built by Omar Taha  
+Connect on [LinkedIn](https://www.linkedin.com/in/omar-taha-133840269/) or [GitHub](https://github.com/TegeTiger)
+
