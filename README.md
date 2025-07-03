@@ -31,7 +31,6 @@ OpenAI API (Embeddings + Chat)
 
 NumPy
 
-FAISS (optional)
 
 ## 📦 Setup Instructions
 
