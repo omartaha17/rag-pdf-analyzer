@@ -17,7 +17,7 @@ A Streamlit app that lets you upload a PDF and ask questions about its content u
 
 ##  Demo
 
-![App Demo 1](ragpdemo3.png)
+![App Demo 1](ragdemo3.png)
 ---
 ## Tech Stack
 
