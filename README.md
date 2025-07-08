@@ -37,7 +37,7 @@ NumPy
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/TegeTiger/rag-pdf-analyzer
+git clone https://github.com/omartaha17/rag-pdf-analyzer
 cd rag-pdf-analyzer
 
 2. Create a virtual environment and activate it
